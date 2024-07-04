@@ -1,4 +1,4 @@
-# Java Swing Elegant Login Form
+# 🟢Formularios Elegantes en JAVA
 
 Este proyecto es una demostración de cómo crear un formulario de inicio de sesión elegante en Java utilizando Swing y el Look and Feel de FlatLaf.
 
@@ -29,3 +29,18 @@ Copiar código
     </dependency>
 </dependencies>
 Ejecuta la aplicación desde tu IDE.
+
+Tutorial
+Puedes ver el tutorial completo sobre cómo crear este formulario de inicio de sesión en el siguiente enlace: https://youtu.be/ruVl8O864fs
+
+
+
+Contribuciones
+Las contribuciones son bienvenidas. Si tienes alguna idea o mejora, por favor abre un issue o envía un pull request.
+
+Licencia
+Este proyecto está licenciado bajo la MIT License.
+
+Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme en info@programadornovato.com.
+
