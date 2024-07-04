@@ -6,6 +6,7 @@ Este proyecto es una demostración de cómo crear un formulario de inicio de ses
 
 En este proyecto, construimos un formulario de inicio de sesión con un diseño moderno y elegante. Utilizamos la biblioteca FlatLaf para mejorar la apariencia de nuestra aplicación Java Swing. Este formulario incluye campos para el nombre de usuario y la contraseña, así como un botón de inicio de sesión.
 
+![image](https://github.com/programadornovato/Login/assets/50611379/1981a410-7391-424a-9483-bc59a08000aa)
 
 ## Instalación
 
